@@ -15,15 +15,12 @@
 		<script src="js/submit.js"></script>
 		<script src="js/reset.js"></script>
 	</head>
-	<body>
-		<div class="jumbotron text-center">
-			<h1>Katik <small style="color: #d5d5d5 !important;">Kalkulator Matematik</small></h1> 			
-		</div>			
+	<body>	
 		<div class="container">
 			<div class="homepage">
 				<div class="text-center">
 					<h2>Welcome to Katik</h2>
-					<p>Hai Sobat, Selamat datang di Katik :]
+					<p>Haloo sobat RevoU, Selamat datang di Katik :]
 					<br/>Sebuah web apps sederhana yang berfungsi untuk menghitung nilai luas dan keliling bangun datar</p>
 				</div>
 
