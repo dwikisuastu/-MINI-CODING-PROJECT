@@ -1,7 +1,7 @@
 function extractNumber(obj, decimalPlaces, allowNegative)
 {
     var temp = obj.value;
- 
+    // halo
     // avoid changing things if already formatted correctly
     var reg0Str = '[0-9]*';
     if (decimalPlaces > 0) {
